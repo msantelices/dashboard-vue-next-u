@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+## Vue Dashboard
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este es un Dashboard de ejemplo desarrollado para la clase "5 casos de éxito que demuestran el gran potencial Vue" en **Next U**.
 
-## Recommended IDE Setup
+El Dashboard muestra un caso adicional a los revisados en clase. El código es público y puede ser estudiado y utilizado según se estime conveniente.
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+Autor: Mauricio Santelices
